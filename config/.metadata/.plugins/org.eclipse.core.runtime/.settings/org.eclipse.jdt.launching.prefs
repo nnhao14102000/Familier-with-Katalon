@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.launching.PREF_VM_XML=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<vmSettings defaultVM\="57,org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType13,1605098153820" defaultVMConnector\="">\r\n<vmType id\="org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType">\r\n<vm id\="1605098153820" name\="Katalon_Studio_Windows_64-7.7.2" path\="D\:\\cn5\\SWT301_\\Katalon_Studio_Windows_64-7.7.2"/>\r\n</vmType>\r\n</vmSettings>\r\n
