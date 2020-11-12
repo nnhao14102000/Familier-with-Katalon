@@ -4,7 +4,7 @@
 
 1. shop_test1 - **Test Project**
 
-2. SportsStore - **Use for TC 1-TestCreateProductFromExcel **
+2. SportsStore - **Use for TC 1-TestCreateProductFromExcel**
 
 ## Technologies/ Tools
 
